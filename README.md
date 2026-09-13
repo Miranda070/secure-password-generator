@@ -1,18 +1,18 @@
-# Gerador de Senhas
+# Password Generator
 
-Projeto desenvolvido durante meus estudos de JavaScript.
+A project developed during my JavaScript studies.
 
-## Conceitos praticados
+## Concepts Practiced
 
-- Variáveis
-- Condicionais (`if`)
-- Loops (`for`)
-- Operadores de atribuição (`+=`)
-- Strings
-- Template Strings
-- Métodos do objeto `Math`
-- Lógica de programação
+* Variables
+* Conditionals (`if`)
+* Loops (`for`)
+* Assignment operators (`+=`)
+* Strings
+* Template Strings
+* `Math` object methods
+* Programming logic
 
-## Objetivo
+## Objective
 
-Gerar senhas aleatórias de acordo com as opções selecionadas pelo usuário, servindo como prática dos conceitos fundamentais de JavaScript.
+Generate random passwords based on the options selected by the user, serving as practice for fundamental JavaScript concepts.
